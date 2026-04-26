@@ -6,6 +6,9 @@ Este projeto tem como objetivo estudar os conceitos básicos de análise de dado
 ## 📚 Fontes
 - https://www.ibm.com/topics/data-analysis
 - https://www.kaggle.com/learn
+- https://learn.microsoft.com/pt-br/training/modules/data-analytics-microsoft
+- https://pandas.pydata.org/docs
+- https://www.coursera.org/articles/data-analytics
 
 ## 🤖 Prompts utilizados
 - Explique análise de dados de forma simples
