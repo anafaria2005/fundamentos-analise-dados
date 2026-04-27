@@ -1,3 +1,9 @@
+## 📘 Material de Estudo (NotebookLM)
+
+Acesse meu caderno completo:
+👉 https://notebooklm.google.com/notebook/074c26b5-9559-49e5-8fbf-421b8556d5c9
+
+
 De acordo com as fontes e o nosso histórico de conversa, a **limpeza de dados** é frequentemente considerada a fase mais demorada da rotina de um analista, pois os dados do mundo real costumam ser \"sujos\" ou inconsistentes.
 
 As tarefas específicas que tornam esse processo complexo e moroso incluem:
